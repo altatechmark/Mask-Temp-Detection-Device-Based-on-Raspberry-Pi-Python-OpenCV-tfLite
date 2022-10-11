@@ -4,5 +4,9 @@ Pi Camera is used for mask detection.
 Contactless Infrared Temperature Sensor MLX90614 is used for temperature detection.
 The system is 12V operated.
 Youtube: https://youtu.be/pfIlJZ89gBY
+
 Upwork: https://www.upwork.com/freelancers/~01df75dce109e8a7ef/
+
 Linkdin: https://www.linkedin.com/in/shamoilkazmi
+
+Email: shamoilkazmi@altawaterfalls.com
